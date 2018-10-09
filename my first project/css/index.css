@@ -1,0 +1,192 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "微软雅黑";
+  background:#f5f5f5 !important;
+}
+
+
+.w-left{
+  background: #d13b2b;
+  text-decoration:none;
+  padding:0.5rem;
+  font-size: 22px;
+}
+
+
+.w-right{
+  background: #af2f22;
+  text-decoration:none;
+  padding:0.5rem;
+  font-size: 22px;
+}
+
+
+
+
+.pic-center{
+  position: relative;
+  top:-560px;
+}
+
+.w-center{
+  position: relative;
+  bottom: 530px;
+}
+
+.background_img{
+  /*margin-top:1rem;*/
+  position:absolute;
+  /*left: 450px;*/
+  top:-250px;
+  text-align: center;
+  width: 100%;
+}
+
+.shop_img{
+  margin-top:16rem;
+  text-align: center ;
+  position: relative;
+}
+
+.shop_style{
+  position: relative;
+}
+
+.news_center .ul_left ul li span,.news_center .ul_right ul li span{
+  padding-right:100px;
+}
+
+.news_center .ul_left ul li a{
+  text-decoration: none;
+  color:black;
+}
+.news_center .ul_left ul li {
+  font-size: 14px;
+  list-style: none;
+}
+
+.news_center .ul_right ul li a{
+  text-decoration: none;
+  color:black;
+}
+.news_center .ul_right ul li {
+  font-size: 14px;
+  list-style: none;
+}
+
+.news_center{
+  position:absolute;
+  width: 100%;
+  text-align: center;
+}
+
+.background_img2{
+  position:relative;
+  /*top:70px;*/
+  text-align: center;
+  width: 1000px;
+  margin: 80px auto;
+}
+
+.news_img{
+  position:relative;
+  bottom:370px;
+  /*left:360px;*/
+  width: 340px;
+  margin: 0 auto;
+}
+
+.my_news{
+  position:relative;
+  bottom:510px;
+  /*left:450px;*/
+}
+.news_list{
+  position: relative;
+  bottom: 350px;
+}
+.ul_left{
+  width: 430px;
+  text-align: left;
+  margin-left:30px;
+  z-index: 3;
+}
+
+.ul_right{
+  width: 430px;
+  text-align: left;
+  margin-left:30px;
+  z-index: 3;
+}
+
+.ul_left li,.ul_right li{
+  margin-bottom:1.5rem;
+}
+
+.join_chain{
+  position:absolute;
+  width:100%;
+  height:656px;
+  background-color:#a5271b;
+  margin-top: 510px;
+}
+
+.join_img{
+  text-align: center ;
+  width: 100%;
+  margin-top:50px;
+}
+
+.join_img_six{
+  width: 300px;
+}
+
+.six_img{
+  margin-top: 30px;
+  text-align: center;
+  width: 100%;
+}
+
+.six_img ul li{
+  list-style: none;
+}
+
+.partners{
+  position:absolute;
+  margin-top:1220px;
+  width:100%;
+}
+
+.partners_img{
+  text-align: center;
+}
+
+.partners_list_img{
+  text-align: center;
+  margin-top: 30px;
+}
+
+.partners_list_img  li img{
+  padding:8px;
+}
+
+.partners_list_word{
+  text-align: center;
+}
+
+.partners_list_word li span{
+  color: #69271c;
+  font-size: 14px;
+  line-height: 36px;
+  padding:10px;
+  text-align: left;
+}
+
+.footer_background_color{
+  margin-top:1550px;
+}
